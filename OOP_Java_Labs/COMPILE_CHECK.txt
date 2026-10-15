@@ -1,0 +1,11 @@
+Lab01_Classes_and_Objects: PASS
+Lab02_Constructors_the_this_Keyword_and_static_Members: PASS
+Lab03_Encapsulation_and_Access_Modifiers: PASS
+Lab04_Inheritance: PASS
+Lab05_Polymorphism: PASS
+Lab06_Abstraction_Abstract_Classes_and_Interfaces: PASS
+Lab07_Exception_Handling: PASS
+Lab08_Generics_and_the_Collections_Framework: PASS
+Lab09_Nested_Types_Enums_Records_and_the_Object_Contract: PASS
+Lab10_File_I_O_Lambdas_and_Streams: PASS
+Lab11_Design_Patterns_and_the_Mini_Project: PASS

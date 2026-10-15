@@ -1,0 +1,50 @@
+OOP JAVA LABS — SIMPLE VS CODE GUIDE
+
+This folder follows the worked programs in your university OOP lab manual.
+I removed the explanatory comments from the Java code so the files are clean and easy to read.
+
+HOW TO START IN VS CODE
+1. Open VS Code.
+2. Install "Extension Pack for Java" by Microsoft.
+3. Make sure Java JDK 17 or later is installed.
+4. Go to File > Open Folder.
+5. Open this whole folder: OOP_Java_Labs_Clean_Humanised.
+6. If VS Code asks whether you trust the folder, choose Trust.
+
+HOW TO RUN A PROGRAM
+1. Open one lab folder at a time.
+2. Open the Java file you want to run.
+3. Look for: public static void main(String[] args)
+4. Click Run above the main method.
+
+TERMINAL METHOD
+Open Terminal > New Terminal, move into the lab folder, then use:
+
+javac *.java
+java ClassName
+
+Example for Lab 1:
+
+javac *.java
+java Student
+java ReferenceDemo
+java Course
+
+IMPORTANT
+Do not paste every program into one Java file.
+Each public class must stay in the Java file with the same name.
+
+LAB ORDER
+Lab 1  - Classes and Objects
+Lab 2  - Constructors, this and static
+Lab 3  - Encapsulation
+Lab 4  - Inheritance
+Lab 5  - Polymorphism
+Lab 6  - Abstraction and Interfaces
+Lab 7  - Exception Handling
+Lab 8  - Generics and Collections
+Lab 9  - Nested Types, Enums and Records
+Lab 10 - File I/O, Lambdas and Streams
+Lab 11 - Design Patterns and Mini-Project examples
+
+The end-of-lab exercises in the manual are separate graded exercises. This pack contains the worked lab programs from the manual.
